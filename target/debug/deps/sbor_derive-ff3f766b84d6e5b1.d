@@ -1,0 +1,10 @@
+/home/ragusugu/token-sale/target/debug/deps/libsbor_derive-ff3f766b84d6e5b1.so: /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor-derive/src/lib.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor-derive/src/decode.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor-derive/src/describe.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor-derive/src/encode.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor-derive/src/type_id.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor-derive/src/utils.rs
+
+/home/ragusugu/token-sale/target/debug/deps/sbor_derive-ff3f766b84d6e5b1.d: /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor-derive/src/lib.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor-derive/src/decode.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor-derive/src/describe.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor-derive/src/encode.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor-derive/src/type_id.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor-derive/src/utils.rs
+
+/home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor-derive/src/lib.rs:
+/home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor-derive/src/decode.rs:
+/home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor-derive/src/describe.rs:
+/home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor-derive/src/encode.rs:
+/home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor-derive/src/type_id.rs:
+/home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor-derive/src/utils.rs:

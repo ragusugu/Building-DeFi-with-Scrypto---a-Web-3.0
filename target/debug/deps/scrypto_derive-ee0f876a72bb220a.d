@@ -1,0 +1,10 @@
+/home/ragusugu/token-sale/target/debug/deps/libscrypto_derive-ee0f876a72bb220a.so: /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/lib.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/ast.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/blueprint.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/import.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/non_fungible_data.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/utils.rs
+
+/home/ragusugu/token-sale/target/debug/deps/scrypto_derive-ee0f876a72bb220a.d: /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/lib.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/ast.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/blueprint.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/import.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/non_fungible_data.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/utils.rs
+
+/home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/lib.rs:
+/home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/ast.rs:
+/home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/blueprint.rs:
+/home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/import.rs:
+/home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/non_fungible_data.rs:
+/home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/utils.rs:

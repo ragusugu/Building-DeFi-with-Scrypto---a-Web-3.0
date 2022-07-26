@@ -1,0 +1,11 @@
+/home/ragusugu/token-sale/target/debug/deps/generic_array-ea3ae3fb21c07247.rmeta: /home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/lib.rs /home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/hex.rs /home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/impls.rs /home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/arr.rs /home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/functional.rs /home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/iter.rs /home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/sequence.rs
+
+/home/ragusugu/token-sale/target/debug/deps/generic_array-ea3ae3fb21c07247.d: /home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/lib.rs /home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/hex.rs /home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/impls.rs /home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/arr.rs /home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/functional.rs /home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/iter.rs /home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/sequence.rs
+
+/home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/lib.rs:
+/home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/hex.rs:
+/home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/impls.rs:
+/home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/arr.rs:
+/home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/functional.rs:
+/home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/iter.rs:
+/home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/sequence.rs:

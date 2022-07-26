@@ -1,0 +1,12 @@
+/home/ragusugu/token-sale/target/release/deps/proc_macro2-7d8ca809de6f154f.rmeta: /home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/lib.rs /home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/marker.rs /home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/parse.rs /home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/detection.rs /home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/fallback.rs /home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/wrapper.rs
+
+/home/ragusugu/token-sale/target/release/deps/libproc_macro2-7d8ca809de6f154f.rlib: /home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/lib.rs /home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/marker.rs /home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/parse.rs /home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/detection.rs /home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/fallback.rs /home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/wrapper.rs
+
+/home/ragusugu/token-sale/target/release/deps/proc_macro2-7d8ca809de6f154f.d: /home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/lib.rs /home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/marker.rs /home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/parse.rs /home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/detection.rs /home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/fallback.rs /home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/wrapper.rs
+
+/home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/lib.rs:
+/home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/marker.rs:
+/home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/parse.rs:
+/home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/detection.rs:
+/home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/fallback.rs:
+/home/ragusugu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/wrapper.rs:

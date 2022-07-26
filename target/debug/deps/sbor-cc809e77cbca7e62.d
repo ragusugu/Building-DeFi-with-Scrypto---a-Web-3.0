@@ -1,0 +1,12 @@
+/home/ragusugu/token-sale/target/debug/deps/sbor-cc809e77cbca7e62.rmeta: /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/lib.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/any.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/decode.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/describe.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/encode.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/path.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/rust.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/type_id.rs
+
+/home/ragusugu/token-sale/target/debug/deps/sbor-cc809e77cbca7e62.d: /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/lib.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/any.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/decode.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/describe.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/encode.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/path.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/rust.rs /home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/type_id.rs
+
+/home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/lib.rs:
+/home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/any.rs:
+/home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/decode.rs:
+/home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/describe.rs:
+/home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/encode.rs:
+/home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/path.rs:
+/home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/rust.rs:
+/home/ragusugu/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/type_id.rs:
